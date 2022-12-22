@@ -1,0 +1,5 @@
+[php_fpm_server]
+158.160.50.77
+
+[nginx_server]
+158.160.51.229
